@@ -1,2 +1,2 @@
 title: You're Awesome
-#words words
+#Welcome to my post!
