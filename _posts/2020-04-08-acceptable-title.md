@@ -1,2 +1,2 @@
-title: You're Awesome
-#Welcome to my post!
+title: "You're Awesome"
+date: 2020-04-08
